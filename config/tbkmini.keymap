@@ -83,10 +83,10 @@
 
         controls {
             bindings = <
-&trans  &kp N1       &kp N2   &kp N3     &kp N4     &kp N5  &kp N6     &kp N7    &kp N8    &kp N9     &kp N0    &none
-&trans  &kp DELETE   &kp INS  &kp MINUS  &kp EQUAL  &none   &kp LEFT   &kp DOWN  &kp UP    &kp RIGHT  &kp HOME  &kp END
-&trans  &screenshot  &none    &none      &none      &none   &kp GRAVE  &kp LBKT  &kp RBKT  &none      &none     &trans
-                              &trans     &trans     &trans  &trans     &trans    &trans
+&trans  &none         &none         &none      &none       &none   &kp INSERT        &kp HOME          &kp UP            &kp END           &kp F5            &kp DEL
+&trans  &kp LEFT_GUI  &kp LEFT_ALT  &kp LCTRL  &kp LSHIFT  &none   &kp PAGE_UP       &kp LEFT          &kp DOWN          &kp RIGHT         &kp PAGE_DOWN     &none
+&trans  &none         &none         &none      &none       &none   &kp LA(NUMBER_1)  &kp LA(NUMBER_2)  &kp LA(NUMBER_3)  &kp LA(NUMBER_4)  &kp LA(NUMBER_5)  &kp LA(NUMBER_9)
+                                    &trans     &trans      &trans  &trans            &kp DEL           &trans
             >;
         };
 
