@@ -75,7 +75,7 @@
 
         numbers {
             bindings = <
-&none  &kp F1            &kp F2            &kp F3                &kp F4          &kp SCROLLLOCK   &none            &kp NUMBER_7          &kp NUMBER_8         &kp NUMBER_9             &none               &none
+&none  &kp F1            &kp F2            &kp F3                &kp F4          &kp PRINTSCREEN  &none            &kp NUMBER_7          &kp NUMBER_8         &kp NUMBER_9             &none               &none
 &none  &hml LEFT_GUI F5  &hml LEFT_ALT F6  &hml LEFT_CONTROL F7  &hml LSHIFT F8  &none            &none            &hmr RSHIFT NUMBER_4  &hmr RCTRL NUMBER_5  &hmr RIGHT_ALT NUMBER_6  &hmr RGUI NUMBER_0  &none
 &none  &kp F9            &kp F10           &kp F11               &kp F12         &kp PAUSE_BREAK  &none            &kp NUMBER_1          &kp NUMBER_2         &kp NUMBER_3             &none               &kp KP_NUMBER_3
                                            &trans                &trans          &trans           &kp KP_NUMBER_1  &kp KP_NUMBER_2       &none
