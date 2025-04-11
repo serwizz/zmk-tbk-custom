@@ -87,7 +87,7 @@
 &trans  &kp KP_NUMBER_6   &kp LS(KP_NUMBER_6)  &kp LS(KP_NUMBER_7)  &kp KP_NUMBER_7  &kp LS(KP_NUMBER_8)  &kp LS(KP_NUMBER_0)  &kp UNDERSCORE    &kp LS(KP_NUMBER_1)  &kp LS(KP_NUMBER_2)  &kp LS(NUMBER_5)     &kp GRAVE
 &trans  &kp LS(NUMBER_1)  &kp MINUS            &kp LS(EQUAL)        &kp EQUAL        &kp KP_NUMBER_4      &kp KP_NUMBER_9      &kp KP_NUMBER_8   &kp LS(NUMBER_9)     &kp LS(NUMBER_0)     &kp KP_NUMBER_3      &kp RBKT
 &trans  &kp KP_NUMBER_0   &kp LS(KP_NUMBER_9)  &kp LS(NUMBER_8)     &kp BACKSLASH    &kp KP_NUMBER_5      &kp KP_EQUAL         &kp LS(KP_EQUAL)  &kp LS(KP_NUMBER_3)  &kp LS(KP_NUMBER_4)  &kp LS(KP_NUMBER_5)  &trans
-                                               &trans               &trans           &trans               &sk LEFT_SHIFT       &trans            &trans
+                                               &trans               &trans           &trans               &trans               &trans            &trans
             >;
         };
     };
